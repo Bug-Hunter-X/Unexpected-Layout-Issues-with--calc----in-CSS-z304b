@@ -1,0 +1,1 @@
+This repository demonstrates a common bug related to the CSS `calc()` function and provides a solution.  The bug arises from an improper use of `calc()` with percentages, leading to unexpected layout behavior. The solution shows the corrected usage and explains how to avoid this issue.
